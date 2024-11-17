@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mustafa Körükmez</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">A passionate computer engineer</h3>
 
 - 🔭 I’m currently working at **Huawei**
 
-- 🌱 I’m currently keep focusing on **Flutter** , **Django** 
+- 🌱 I’m currently keep focusing on **Flutter** , **Django** , **Scrapy** 
 
 - 📫 How to reach me **korukmezmustafa@gmail.com**
 
