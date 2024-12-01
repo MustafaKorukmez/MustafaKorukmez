@@ -1,42 +1,54 @@
+# 👋 Hi, I'm Mustafa Körükmez
 
-# 👋 Merhaba, Ben Mustafa Körükmez
-
-Bilgisayar mühendisiyim ve yazılım geliştirme tutkusu ile farklı projeler üzerinde çalışıyorum. 
-Kendimi sürekli geliştirmeye ve teknolojinin sunduğu yenilikleri öğrenmeye odaklanmış bir geliştiriciyim.
-
----
-
-## 💻 Hakkımda
-
-- **Programlama Dilleri**: Python, Dart, C, Java
-- **Frameworkler ve Teknolojiler**: Django, Scrapy, Selenium, Flutter
-- **İlgi Alanları**:
-  - Web ve mobil uygulama geliştirme
-  - Veri toplama ve analiz
-  - Yeni teknolojiler öğrenme ve projelerde uygulama
+I'm a Computer Engineer passionate about software development and creating innovative solutions. 
+I'm dedicated to continuous learning and staying current with emerging technologies.
 
 ---
 
-## 🌱 Şu Anda Çalıştıklarım
+## 💻 About Me
 
-Farklı projeler ile becerilerimi geliştirmeye odaklanıyorum. Özellikle web ve mobil uygulama geliştirme alanında kendimi derinlemesine geliştirmek için çalışıyorum.
+- **Programming Languages**: Python, Dart, C, Java
+- **Frameworks & Technologies**: Django, Scrapy, Selenium, Flutter, FastAPI
+- **Areas of Expertise**:
+  - Full-stack Web Development
+  - Mobile Application Development
+  - Data Scraping & Analysis
+  - Software Architecture & Design
 
 ---
 
-## 📫 Bana Ulaşın
+## 🚀 Current Focus
+
+I'm currently expanding my expertise in:
+- Advanced web development practices
+- Mobile app development with Flutter
+- Cloud computing technologies
+- Software design patterns and best practices
+
+---
+
+## 🛠️ Technical Skills
+
+- **Backend Development**: Python, Django, RESTful APIs, FastAPI
+- **Frontend Development**: HTML, CSS, JavaScript
+- **Mobile Development**: Flutter, Dart
+- **Database Systems**: SQL, PostgreSQL, MongoDB
+- **Tools & Others**: Git, Docker, CI/CD
+
+---
+
+## 📈 Professional Goals
+
+- Contribute to impactful open-source projects
+- Master cloud-native development practices
+- Develop scalable and efficient solutions
+- Share knowledge through technical writing and mentoring
+
+---
+
+## 📫 Let's Connect
 
 - **LinkedIn**: [linkedin.com/in/mustafakorukmez](https://www.linkedin.com/in/mustafakorukmez/)
-- **GitHub**: [GitHub Profilim](https://github.com/MustafaKorukmez)
+- **GitHub**: [GitHub Profile](https://github.com/MustafaKorukmez)
+- **Email**: korukmezmustafa@gmail.com
 
----
-
-## ✨ Hedeflerim
-
-- Yeni diller ve frameworkler öğrenerek yetkinliklerimi genişletmek.
-- Açık kaynak projelere katkıda bulunmak.
-- Mobil ve web teknolojilerinde uzmanlaşmak.
-
----
-
-Birlikte çalışabileceğimiz ya da tartışabileceğimiz projelere her zaman açığım! 
-Bana ulaşmaktan çekinmeyin. 🚀
