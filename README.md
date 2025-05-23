@@ -8,7 +8,7 @@ I'm dedicated to continuous learning and staying current with emerging technolog
 ## 💻 About Me
 
 - **Programming Languages**: Python, Dart, C, Java
-- **Frameworks & Technologies**: Django, Scrapy, Selenium, Flutter, FastAPI
+- **Frameworks & Technologies**: Spring Booot, Django, Scrapy, Selenium, Flutter, FastAPI
 - **Areas of Expertise**:
   - Full-stack Web Development
   - Mobile Application Development
@@ -29,7 +29,7 @@ I'm currently expanding my expertise in:
 
 ## 🛠️ Technical Skills
 
-- **Backend Development**: Python, Django, RESTful APIs, FastAPI
+- **Backend Development**: Java, Spring-Booot, Python, Django, RESTful APIs, FastAPI
 - **Frontend Development**: HTML, CSS, JavaScript
 - **Mobile Development**: Flutter, Dart
 - **Database Systems**: SQL, PostgreSQL, MongoDB
